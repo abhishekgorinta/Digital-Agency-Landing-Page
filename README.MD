@@ -108,17 +108,6 @@ project-folder/
 No additional setup required.
 
 ---
-
-## 📈 Future Improvements
-
-- Make fully responsive for mobile devices
-- Add animations using CSS transitions
-- Add hover effects
-- Convert into React or Vue version
-- Add contact form with backend integration
-
----
-
 ## 💡 Learning Outcomes
 
 This project helps improve:
