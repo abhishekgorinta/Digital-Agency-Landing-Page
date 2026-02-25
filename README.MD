@@ -5,6 +5,15 @@ A modern and professional **Digital Agency Landing Page** built using pure **HTM
 This project represents a fictional creative technology company called **Nexaverse**, focused on building powerful digital experiences.
 
 ---
+## View live
+Open this link to view project
+```
+https://gabhishek-digital-agency-landingpage.netlify.app/
+
+```
+## 📸 Screenshot
+![ag1](ag1.png)
+![ag2](ag2.png)
 
 ## 📌 Project Overview
 
